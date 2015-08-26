@@ -21,3 +21,9 @@ body
     background-color: white;
     
 }
+
+#kitten
+{
+    display:block;
+    margin:0 auto;
+}
